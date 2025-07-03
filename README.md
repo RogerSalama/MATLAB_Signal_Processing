@@ -92,6 +92,18 @@ Parseval's theorem is verified!
    - `signal_1.wav`: Original composite signal
    - `signal_2.wav`: Low-pass filtered (bass-enhanced)
    - `signal_3.wav`: High-pass filtered (treble-enhanced)
+  
+## Plots
+
+![Generated Signal](https://github.com/user-attachments/assets/34f49423-ea69-4514-9d25-965154d9357a)
+![X(f)](https://github.com/user-attachments/assets/16e0af7b-f00c-49a4-9d7a-b7bba9e845ca)
+![y1 Response](https://github.com/user-attachments/assets/fc08b871-2a10-4262-a97b-baf8f7bdade4)
+![y1 Signal](https://github.com/user-attachments/assets/b310ec86-e2d3-41f0-a43a-c825f80954db)
+![y1(f)](https://github.com/user-attachments/assets/eaf1d521-a8b4-4155-9784-65010dc5c6ac)
+![y2 Response](https://github.com/user-attachments/assets/a3df8582-eec6-471c-b0cf-755bafefce94)
+![y2 Signal](https://github.com/user-attachments/assets/ce06d53f-03b6-487e-a839-1517857ef06a)
+![y2(f)](https://github.com/user-attachments/assets/d4f72dea-df93-4c7a-8e79-205d54cd009a)
+
 
 ## Key Parameters
 | Parameter | Value | Description |
