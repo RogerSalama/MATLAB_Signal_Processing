@@ -13,7 +13,7 @@ This MATLAB project demonstrates signal generation, frequency analysis, and filt
 - Signal Processing Toolbox
 
 ## Files
-1. `signal_processing.m` - Main MATLAB script
+1. `SignalsProject.m` - Main MATLAB script
 2. `signal_1.wav` - Original multi-tone signal
 3. `signal_2.wav` - Low-pass filtered output
 4. `signal_3.wav` - High-pass filtered output
@@ -21,14 +21,9 @@ This MATLAB project demonstrates signal generation, frequency analysis, and filt
 
 ## How to Run
 1. Clone the repository:
-```bash
-git clone https://github.com/yourusername/signal-processing-project.git
-```
 2. Open MATLAB and navigate to the project directory
 3. Run the main script:
-```matlab
-signal_processing
-```
+
 
 ## Code Structure
 ```matlab
@@ -112,5 +107,3 @@ Parseval's theorem is verified!
 3. **FFT Normalization**: Spectra scaled by `1/N` for accurate magnitude representation
 4. **Energy Calculation**: Time-domain energy normalized by signal length
 
-## License
-[MIT License](LICENSE)
